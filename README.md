@@ -11,5 +11,6 @@ Template escolhido para criação dessa página
 
 Mais opções se preferir - [Todos os templates](https://startbootstrap.com/themes/)
 
+Depois de fazer o download, é necessário que a pasta seja descompactada.
 Você poderá editar em seu editor de texto favorito os arquivos "index.html" e o css "css/resume.min.css"
 
