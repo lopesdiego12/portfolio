@@ -11,5 +11,5 @@ Template escolhido para criação dessa página
 
 Mais opções se preferir - [Todos os templates](https://startbootstrap.com/themes/)
 
-Você poderá editar em seu editor de texto favorito os "index.html" e o css "css/resume.min.css"
+Você poderá editar em seu editor de texto favorito os arquivos "index.html" e o css "css/resume.min.css"
 
